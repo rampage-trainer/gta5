@@ -77,12 +77,6 @@ export default function Home() {
               >
                 <Download className="size-4" /> Download Legacy Beta
               </Link>
-              <Link
-                href="#install"
-                className="inline-flex items-center gap-2 rounded-md border px-4 py-2 text-sm hover:bg-accent hover:text-accent-foreground"
-              >
-                <ArrowDownToLine className="size-4" /> Install Guide
-              </Link>
             </div>
           </div>
         </div>
