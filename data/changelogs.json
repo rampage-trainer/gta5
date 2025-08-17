@@ -1,6 +1,10 @@
 {
-  "1.0.889.19": [
-    "Test"
+  "1.0.889.22": [
+    "Updated to game patch 1.0.889.22",
+    "Added Stats Editor",
+    "Fixed bug with vehicle lights in XML Loader",
+    "Fixed issue with saving selected text color",
+    "Added toggle for Auto Save (saves toggles every minute)"
   ]
 }
 
