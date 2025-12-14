@@ -53,7 +53,7 @@ export default function Home() {
               <div className="flex items-center justify-between">
                 <div className="space-y-1">
                   <div className="font-medium">GTA5 Legacy</div>
-                  <div className="text-muted-foreground">Build 1.0.3586.0</div>
+                  <div className="text-muted-foreground">Build 1.0.3717.0</div>
                 </div>
                 <Badge className="bg-emerald-600 hover:bg-emerald-600">Supported</Badge>
               </div>
