@@ -1,10 +1,10 @@
 {
-  "1.0.889.22": [
-    "Updated to game patch 1.0.889.22",
-    "Added Stats Editor",
-    "Fixed bug with vehicle lights in XML Loader",
-    "Fixed issue with saving selected text color",
-    "Added toggle for Auto Save (saves toggles every minute)"
+  "1.0.1013.17": [
+    "Updated to game patch 1.0.1013.17",
+    "Added new DLC Vehicles",
+    "Added new DLC Peds",
+    "Added new DLC Objects",
+    "Added new DLC Weapons"
   ]
 }
 
