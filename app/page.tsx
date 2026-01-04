@@ -46,7 +46,7 @@ export default function Home() {
               <div className="flex items-center justify-between">
                 <div className="space-y-1">
                   <div className="font-medium">GTA5 Enhanced</div>
-                  <div className="text-muted-foreground">Build 1.0.889.22</div>
+                  <div className="text-muted-foreground">Build 1.0.1013.17</div>
                 </div>
                 <Badge className="bg-emerald-600 hover:bg-emerald-600">Supported</Badge>
               </div>
@@ -66,13 +66,13 @@ export default function Home() {
             </p>
             <div className="flex flex-wrap gap-3">
               <Link
-                href="https://raw.githubusercontent.com/rampage-trainer/gta5/main/build/Rampage_Enhanced.zip"
+                href="https://github.com/rampage-trainer/gta5/releases/latest/download/Rampage_Enhanced.zip"
                 className="inline-flex items-center gap-2 rounded-md bg-primary text-primary-foreground px-4 py-2 text-sm font-medium hover:bg-primary/90"
               >
                 <Download className="size-4" /> Download Enhanced Beta
               </Link>
               <Link
-                href="https://raw.githubusercontent.com/rampage-trainer/gta5/main/build/Rampage_Legacy.zip"
+                href="https://github.com/rampage-trainer/gta5/releases/latest/download/Rampage_Legacy.zip"
                 className="inline-flex items-center gap-2 rounded-md bg-primary text-primary-foreground px-4 py-2 text-sm font-medium hover:bg-primary/90"
               >
                 <Download className="size-4" /> Download Legacy Beta
